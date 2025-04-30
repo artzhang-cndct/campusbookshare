@@ -22,3 +22,26 @@ CampusBookshare is a web application designed to facilitate resource sharing amo
    ```bash
    git clone https://github.com/your-repo/campusbookshare.git
    cd campusbookshare
+
+
+## User Manual
+1. Registration
+      Navigate to the /register page.
+      Fill in your name, email, password, and location.
+      Click "Register" to create an account.
+2. Login
+      Navigate to the /login page.
+      Enter your email and password.
+      Click "Login" to access your account.
+3. Create a Listing
+      Go to the /dashboard page.
+   Click "Create Listing."
+      Fill in the title, description, category, and availability.
+      Submit the form to add your listing.
+4. Messaging
+      Navigate to the /messages page.
+      Select a user from the list on the left.
+      Type your message in the input box and click "Send."
+5. Reviews
+      Visit a user's profile.
+      Submit a rating and review for the user.
