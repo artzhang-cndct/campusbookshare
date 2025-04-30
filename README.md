@@ -46,6 +46,6 @@ CampusBookshare is a web application designed to facilitate resource sharing amo
       Visit a user's profile.
       Submit a rating and review for the user.
 
-Ensure you have a virtual environment set up
-To run the application, run app.py
-To test the application, run test_app.py
+- Ensure you have a virtual environment set up
+- To run the application, run app.py
+- To test the application, run test_app.py
